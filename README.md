@@ -1,2 +1,2 @@
 # MT-UGAN
-This repository contains codes and data for the paper "MT-UGAN: Multi-task GANs for Automatic Segmentation and Identification of Hippocampal Regions"
+This repository contains the complete MT-UGAN pipeline and a link to the dataset presented in the paper "MT-UGAN: Multi-task GANs for Automatic Segmentation and Identification of Hippocampal Regions."
