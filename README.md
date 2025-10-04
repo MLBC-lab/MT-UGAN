@@ -9,4 +9,4 @@ Accurate segmentation and identification of hippocampal subregions are essential
 ![Screenshot](graphical_abstract.png)
 ### Dataset
 The dataset introduced in his study can be downloaded [here!](https://rutgers.box.com/v/HippocampalROISegDataset).
-"""
+
